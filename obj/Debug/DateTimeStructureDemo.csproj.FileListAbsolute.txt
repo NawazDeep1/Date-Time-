@@ -1,0 +1,22 @@
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.pdb
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.Properties.Resources.resources
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormDateTime.resources
+C:\Users\alex\source\repos\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormOperation.resources
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.pdb
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormDateTime.resources
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormOperation.resources
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+C:\Users\Admin\Downloads\Lasalle college\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
